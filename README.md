@@ -1,4 +1,4 @@
-# arango-backdoor-test (KBase module)
+# arango_backdoor_test (KBase module)
 
 This is a [KBase](https://kbase.us) module. You need to install the SDK command-line interface to run this module.
 

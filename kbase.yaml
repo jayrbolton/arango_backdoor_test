@@ -1,4 +1,4 @@
-module-name: arango-backdoor-test
+module-name: arango_backdoor_test
 module-description: Enter a description here
 service-language: python
 module-version: 0.0.1
